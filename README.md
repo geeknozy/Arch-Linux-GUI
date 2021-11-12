@@ -23,7 +23,6 @@ enable ligtdm Display Manager
 ```pacman -Syu acpid dbus thermald```
 
 enable the services on startup
-```systemctl enable acpid.service```
-```systemctl enable dbus.service```
-```systemctl enable gdm.service```
-```systemctl enable thermald.service```
+```systemctl enable acpid.service```<br />
+```systemctl enable dbus.service```<br />
+```systemctl enable thermald.service```<br />
