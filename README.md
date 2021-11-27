@@ -9,6 +9,9 @@ enable ligtdm Display Manager <br />
 
 ```systemctl enable lightdm.service```
 
+### BSPWM a simple beautiful window manager<br />
+```pacman -Syu xorg xorg-xinit bspwm sxhkd rxvt-unicode rofi picom feh thunar thunar-volman scrot``` 
+
 ### Gnome Desktop Environment <br />
 
 ```pacman -Syu xorg xorg-xinit gnome-shell gnome-terminal nautilus gnome-tweak-tool gnome-control-center gnome-keyring gdm```
