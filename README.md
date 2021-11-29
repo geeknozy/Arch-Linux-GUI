@@ -33,3 +33,6 @@
 ```pacman -Syu xf86-video-intel intel-ucode libva-intel-driver libva-utils vulkan-intel```
 
 ##### Note : xf86-video-intel package is optional as it contains some bugs 
+
+#### misc X11 packages (optional)
+```pacman -Syu xf86-input-libinput xf86-input-evdev libxkbcommon-x11 xcb-util-cursor xcb-util-keysyms xcb-util-renderutil xcb-util-errors```
