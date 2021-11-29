@@ -28,3 +28,8 @@
 ```systemctl enable acpid.service```<br />
 ```systemctl enable dbus.service```<br />
 ```systemctl enable thermald.service```<br />
+
+#### intel graphics related packages
+```pacman -Syu xf86-video-intel intel-ucode libva-intel-driver libva-utils vulkan-intel```
+
+##### Note : xf86-video-intel package is optional as it contains some bugs 
