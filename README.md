@@ -47,7 +47,7 @@ systemctl enable thermald.service
 
 
 ##### intel graphics related packages
-> if you observe screen tearing issue on intel based integrated GPU check this link -> [intel screen tear resolve](https://github.com/geeknozy/screen-tear-resolve).
+> if you observe screen tearing issue on intel based integrated GPU check this link -> [intel screen tear resolve](https://github.com/geeknozy/linux-screen-tear-resolve).
 ```
 pacman -Syu xf86-video-intel intel-ucode libva-intel-driver libva-utils vulkan-intel
 ```
