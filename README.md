@@ -3,6 +3,11 @@
 
 ##### XFCE4 Desktop Environment <br />
 ```
+pacman -Syu xorg xorg-xinit lxqt sddm lxappearance kvantum kvantum-qt5
+```
+
+##### XFCE4 Desktop Environment <br />
+```
 pacman -Syu xorg xorg-xinit xfce4 xfce4-terminal xfce4-whiskermenu-plugin xfce4-screenshooter xfce4-pulseaudio-plugin lighdm lightdm-gtk-greeter lightdm-gtk-greeter-settings
 ```
 
