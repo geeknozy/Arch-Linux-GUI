@@ -34,7 +34,7 @@ systemctl enable gdm.service
 ##### Optional packages / services etc (
 > these packages are universal for all the DE/WMs, ie: you can use these with any DE or WMs <br /> 
 ```
-pacman -Syu acpid dbus thermald
+pacman -Syu acpid dbus thermald tlp
 ```
 
 ##### enable the services on startup <br />
@@ -48,6 +48,10 @@ systemctl enable dbus.service
 
 ```
 systemctl enable thermald.service
+```
+
+```
+systemctl enable tlp.service
 ```
 
 
