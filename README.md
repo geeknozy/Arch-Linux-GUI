@@ -3,7 +3,7 @@
 
 ##### LXQT Desktop Environment <br />
 ```
-pacman -Syu xorg xorg-xinit lxqt sddm lxappearance kvantum kvantum-qt5
+pacman -Syu xorg xorg-xinit lxqt sddm lxappearance kvantum kvantum-qt5 noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-joypixels xcursor-vanilla-dmz
 ```
 
 ##### XFCE4 Desktop Environment <br />
