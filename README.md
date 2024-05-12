@@ -1,7 +1,7 @@
 # Arch-Linux-GUI
 ## package list for few good DE/WM on Arch Linux
 
-##### XFCE4 Desktop Environment <br />
+##### LXQT Desktop Environment <br />
 ```
 pacman -Syu xorg xorg-xinit lxqt sddm lxappearance kvantum kvantum-qt5
 ```
