@@ -3,7 +3,7 @@
 
 ##### Hyprland window manager <br />
 ```
-pacman -Syu wayland wlroots gcc git meson libxcbcommon cairo pango pixman hyprland hyprpaper kitty waybar wofi fastfetch nautilus geany
+pacman -Syu wayland wlroots gcc git meson libxcbcommon cairo pango pixman hyprland hyprpaper kitty waybar wofi fastfetch nautilus geany lxappearance-gtk3 grim slurp viewnior swayimg
 ```
 
 ##### BSPWM a simple beautiful window manager<br />
