@@ -28,7 +28,7 @@ systemctl enable lightdm.service
 
 ##### Minimal Gnome Desktop Environment <br />
 ```
-pacman -Syu xorg xorg-xinit gnome-shell gnome-terminal nautilus gnome-tweak-tool gnome-control-center gnome-keyring gdm
+pacman -Syu gnome-shell gnome-terminal nautilus gnome-tweaks gnome-control-center gnome-keyring gdm polkit-gnome
 ```
 
 ##### enable gdm display manager <br />
